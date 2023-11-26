@@ -1,3 +1,4 @@
 comandos ate aqui
 git init
 git git add home.txt
+git commit (primeiro commit )
