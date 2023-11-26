@@ -1,0 +1,5 @@
+criando um nomvo arquivo
+para fazer um guit push 
+fazendo um teste de com 
+funciona e ve se atualiza no 
+repositorio do guitHub
